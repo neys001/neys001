@@ -2,7 +2,7 @@
 
 <p align="center">
   Студент 3 курса РУТ (МИИТ), направление «Информатика и вычислительная техника».<br>
-  Пишу на Java, работаю с PostgreSQL, верстаю на HTML/CSS.<br>
+  Пишу на Java, работаю с PostgreSQL, по настроению верстаю на HTML/CSS.<br>
   Больше всего люблю разбираться, как система устроена изнутри.
 </p>
 
@@ -12,14 +12,11 @@
 
 ---
 
-### 🛠️ Технологии
+### Технологии
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaFX-1f6feb" alt="JavaFX">
-  <img src="https://img.shields.io/badge/JDBC-5a5a5a" alt="JDBC">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
@@ -30,7 +27,7 @@
 
 ---
 
-### 📂 Проекты
+### Проекты
 
 | Проект | Что это | Стек |
 |---|---|---|
