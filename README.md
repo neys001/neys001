@@ -32,9 +32,9 @@
 | Проект | Что это | Стек |
 |---|---|---|
 | 🏦 [**BankSystem**](https://github.com/neys001/BankSystem) | Десктопный банк с ролями клиента, сотрудника и администратора: счета, кредитные карты, переводы, заявки на кредит | Java, JavaFX, PostgreSQL |
-| 🏭 [**JDBC_Firma**](https://github.com/neys001/JDBC_Firma) | Учёт фирмы-сборщика: CRUD, транзакции с откатом, batch-вставка, аналитические запросы, встроенная SQL-консоль | Java 21, JDBC, HikariCP, Maven |
+| 🏭 [**JDBC_Firma**](https://github.com/neys001/JDBC_Firma) | Учёт фирмы-сборщика: CRUD, транзакции с откатом, batch-вставка, аналитические запросы, встроенная SQL-консоль | Java 21, JDBC, HikariCP |
 | 🎮 [**ComputerClub**](https://github.com/neys001/ComputerClub) | Администрирование компьютерного клуба: клиенты, игровые места по зонам, бронирование с защитой от двойной брони | Java, JDBC, PostgreSQL |
-| 🔐 [**CryptoAlgorithm**](https://github.com/neys001/CryptoAlgorithm) | Потоковое шифрование файлов алгоритмом DES в режиме OFB, справляется с файлами в несколько гигабайт | Java, javax.crypto |
+| 🔐 [**CryptoAlgorithm**](https://github.com/neys001/CryptoAlgorithm) | Потоковое шифрование файлов алгоритмом DES в режиме OFB, справляется с файлами в несколько гигабайт | Java |
 | 🚇 [**MosTransport_Site**](https://github.com/neys001/MosTransport_Site) | Сайт о транспорте Москвы до 2030 года с интерактивной картой на чистом CSS, без JavaScript | HTML, CSS |
 
 ---
